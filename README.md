@@ -2,6 +2,8 @@
 
 Our platform is designed for job seakers and employers in the IT industry. The following is how to get started
 
+#### Suhaib Rageh
+
 ## For Developers
 
 how to get project running and deployment procces
